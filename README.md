@@ -4,4 +4,4 @@
 
 ![demo](https://raw.github.com/wiki/oki-tomohiro/naga-tomohiro/images/heartrate.gif)
 
-![demo](https://raw.github.com/wiki/oki-tomohiro/naga-tomohiro/images/heartrate1 (2).jpg)
+![demo](https://raw.github.com/wiki/oki-tomohiro/naga-tomohiro/images/heartrate1.jpg)
